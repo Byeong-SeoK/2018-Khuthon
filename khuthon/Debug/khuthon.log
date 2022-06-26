@@ -1,0 +1,15 @@
+﻿  main.cpp
+c:\users\qudtj\onedrive\바탕 화면\khuthon (3)\khuthon\univuser.h(69): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\qudtj\onedrive\바탕 화면\khuthon (3)\khuthon\univuser.h(105): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\qudtj\onedrive\바탕 화면\khuthon (3)\khuthon\univuser.h(146): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\qudtj\onedrive\바탕 화면\khuthon (3)\khuthon\univuser.h(158): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  user.cpp
+c:\users\qudtj\onedrive\바탕 화면\khuthon (3)\khuthon\univuser.h(69): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\qudtj\onedrive\바탕 화면\khuthon (3)\khuthon\univuser.h(105): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\qudtj\onedrive\바탕 화면\khuthon (3)\khuthon\univuser.h(146): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\qudtj\onedrive\바탕 화면\khuthon (3)\khuthon\univuser.h(158): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\qudtj\onedrive\바탕 화면\khuthon (3)\khuthon\user.cpp(37): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\qudtj\onedrive\바탕 화면\khuthon (3)\khuthon\user.cpp(90): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  코드를 생성하고 있습니다...
+c:\users\qudtj\onedrive\바탕 화면\khuthon (3)\khuthon\user.cpp(122): warning C4715: 'user::login': 모든 제어 경로에서 값을 반환하지는 않습니다.
+  khuthon.vcxproj -> C:\Users\qudtj\OneDrive\바탕 화면\khuthon (3)\Debug\khuthon.exe
